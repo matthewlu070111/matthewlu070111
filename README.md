@@ -1,12 +1,4 @@
-<!---
-- 👋 Hi, I’m @matthewlu070111
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-matthewlu070111/matthewlu070111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<img align="left" src="https://github-readme-stats.vercel.app/api?theme=graywhite&count_private=true&username=matthewlu070111&show_icons=true&include_all_commits=true">
+- 👋 Hi, 我是matthewlu070111
+- 🌱 我现在在学习Python
+<img align="left" src="https://github-readme-stats.vercel.app/api?theme=graywhite&count_private=true&username=matthewlu070111&show_icons=true&include_all_commits=true&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=graywhite&count_private=true&username=matthewlu070111&layout=compact&hide_border=true">
